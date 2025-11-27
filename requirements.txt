@@ -1,4 +1,2 @@
-pytelegrambotapi==4.19.2
+pyTelegramBotAPI==4.14.1
 requests==2.31.0
-pycoingecko==3.1.0
-flask==2.3.3
